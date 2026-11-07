@@ -20,6 +20,9 @@ Za početnike, potrebno je osnovno znanje i snalaženje u Visual studio aplikaci
 
 - [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
 
+- [Prvi koraci s Pandocom](docs/prvi-koraci-s-pandocom.md): tutorial
+
+
 ## Autor i korištenje AI-a
 
 Priručnik piše Mate Peric u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
