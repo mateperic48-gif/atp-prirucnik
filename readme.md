@@ -1,10 +1,10 @@
 # Moj razvojni priručnik
 
-[Jedna rečenica: što je ovaj priručnik i čemu služi.]
+Priručnik o prvim koracima u terminalu za početnike
 
 ## Kome je namijenjen
 
-[Tko je citatelj? Što već zna, a što ne zna?]
+Za početnike, potrebno je osnovno znanje i snalaženje u Visual studio aplikaciji
 
 ## Moje razvojno okruženje
 
