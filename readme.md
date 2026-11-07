@@ -4,7 +4,7 @@
 
 ## Kome je namijenjen
 
-[Tko je čitatelj? Što već zna, a što ne zna?]
+[Tko je citatelj? Što već zna, a što ne zna?]
 
 ## Moje razvojno okruženje
 
